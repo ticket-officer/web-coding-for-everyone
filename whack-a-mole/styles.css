@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 150px);
+    gap: 10px;
+}
+
+.hole {
+    width: 150px;
+    height: 150px;
+    background-color: #8e8e8e;
+    border-radius: 50%;
+    position: relative;
+}
+
+.mole {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    display: none;
+}
+
+.hole.up .mole {
+    display: block;
+}
