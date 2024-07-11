@@ -22,10 +22,10 @@ body {
 }
 
 .mole {
-    width: 160px;
-    height: 160px;
+    width: 140px;
+    height: 140px;
     position: absolute;
-    bottom: -160px; /* Start hidden */
+    bottom: -140px; /* Start hidden */
     left: 50%;
     transform: translateX(-50%);
     cursor: pointer;
@@ -34,5 +34,5 @@ body {
 }
 
 .hole.up .mole {
-    bottom: 20px; /* Adjust this value to fit nicely */
+    bottom: 10px; /* Adjust this value to fit nicely */
 }
