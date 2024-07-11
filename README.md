@@ -46,6 +46,11 @@ We encourage you to create your own games and submit them to this repository. Fo
    git add .
    git commit -m "Add My Awesome Game"
    ```
+6. **Push to GitHub**: Push your changes to your forked repository.
+   ```bash
+   git push origin main
+   ```
+7. **Submit a Pull Request**: Go to the original repository and submit a pull request with your changes. Include a brief description of your game and what makes it unique.
    
 We look forward to seeing your creations and adding them to our repository!
 
