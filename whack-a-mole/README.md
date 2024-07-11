@@ -19,7 +19,7 @@ Welcome to the Whack-a-Mole project! This game is a fun and interactive way to p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-programming-for-everyone.git
+   git clone https://github.com/ticket-officer/web-programming-for-everyone.git
    ```
 
 2. Navigate to the project directory:
