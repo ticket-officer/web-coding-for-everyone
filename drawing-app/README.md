@@ -4,7 +4,7 @@ This is a simple interactive drawing game built using HTML, CSS, and JavaScript.
 
 ## Files
 
-- ``index.html`: The main HTML file that sets up the structure of the page.
+- `index.html`: The main HTML file that sets up the structure of the page.
 - `styles.css`: The CSS file that styles the page.
 - `script.js`: The JavaScript file that adds interactivity to the drawing canvas.
 
