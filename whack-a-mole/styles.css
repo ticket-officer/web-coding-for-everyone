@@ -30,8 +30,9 @@ body {
     transform: translateX(-50%);
     cursor: pointer;
     transition: bottom 0.3s;
+    z-index: 1; /* Ensure mole is on top */
 }
 
 .hole.up .mole {
-    bottom: 10px; /* Adjust this value to fit nicely */
+    bottom: 40px; /* Adjust this value to fit nicely */
 }
