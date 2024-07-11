@@ -22,10 +22,10 @@ body {
 }
 
 .mole {
-    width: 120px;
-    height: 120px;
+    width: 130px;
+    height: 130px;
     position: absolute;
-    bottom: -130px; /* Start hidden */
+    bottom: -150px; /* Start hidden */
     left: 50%;
     transform: translateX(-50%);
     cursor: pointer;
