@@ -1,17 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
     const cardArray = [
-        { name: 'apple', img: 'images/apple.png' },
-        { name: 'apple', img: 'images/apple.png' },
-        { name: 'banana', img: 'images/banana.png' },
-        { name: 'banana', img: 'images/banana.png' },
-        { name: 'cherry', img: 'images/cherry.png' },
-        { name: 'cherry', img: 'images/cherry.png' },
-        { name: 'grape', img: 'images/grape.png' },
-        { name: 'grape', img: 'images/grape.png' },
-        { name: 'orange', img: 'images/orange.png' },
-        { name: 'orange', img: 'images/orange.png' },
-        { name: 'pear', img: 'images/pear.png' },
-        { name: 'pear', img: 'images/pear.png' },
+        { name: 'apple', img: 'images/apple.jpeg' },
+        { name: 'apple', img: 'images/apple.jpeg' },
+        { name: 'banana', img: 'images/banana.jpeg' },
+        { name: 'banana', img: 'images/banana.jpeg' },
+        { name: 'cherry', img: 'images/cherry.jpeg' },
+        { name: 'cherry', img: 'images/cherry.jpeg' },
+        { name: 'grape', img: 'images/grape.jpeg' },
+        { name: 'grape', img: 'images/grape.jpeg' },
+        { name: 'orange', img: 'images/orange.jpeg' },
+        { name: 'orange', img: 'images/orange.jpeg' },
+        { name: 'pear', img: 'images/pear.jpeg' },
+        { name: 'pear', img: 'images/pear.jpeg' },
     ]
 
     cardArray.sort(() => 0.5 - Math.random())
