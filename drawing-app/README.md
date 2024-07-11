@@ -17,7 +17,7 @@ This is a simple interactive drawing game built using HTML, CSS, and JavaScript.
 
 2. Navigate to the project directory
    ```bash
-   cd drawing-app
+   cd web-programming-for-everyone/drawing-app
    ```
 
 3. Open `index.html` in your web browser to start the game.
