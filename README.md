@@ -32,6 +32,9 @@ Welcome to the world of web programming! We hope these projects inspire you to c
 
 ### Submitting your own games
 
+- [ ] Play all the games in this repository
+- [ ] Submit your own game 😄 👍 🚀
+
 We encourage you to create your own games and submit them to this repository. Follow these steps to submit your project:
 
 1. **Fork this repository**: Click the "Fork" button at the top-right corner of this page to create a copy of this repository on your GitHub account.
