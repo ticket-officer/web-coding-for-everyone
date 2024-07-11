@@ -19,7 +19,7 @@ Welcome to the Memory Game project! This game is a fun way to improve your memor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-programming-for-everyone.git
+   git clone https://github.com/ticket-officer/web-programming-for-everyone.git
    ```
 
 2. Navigate to the project directory
