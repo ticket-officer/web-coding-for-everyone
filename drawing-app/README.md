@@ -24,6 +24,10 @@ This is a simple interactive drawing game built using HTML, CSS, and JavaScript.
 
 ### Don't forget to try creating a game of your own! 😄 👍 🚀
 
+## Extra Challenge
+
+Can you figure out how to add color to the drawing strokes?
+
 ## License
 
 This project is licensed under the MIT License.
