@@ -25,7 +25,7 @@ body {
     width: 130px;
     height: 130px;
     position: absolute;
-    bottom: -150px; /* Start hidden */
+    bottom: -180px; /* Start hidden */
     left: 50%;
     transform: translateX(-50%);
     cursor: pointer;
