@@ -25,7 +25,7 @@ body {
     width: 160px;
     height: 160px;
     position: absolute;
-    bottom: -80px; /* Start hidden */
+    bottom: -160px; /* Start hidden */
     left: 50%;
     transform: translateX(-50%);
     cursor: pointer;
@@ -34,5 +34,5 @@ body {
 }
 
 .hole.up .mole {
-    bottom: 10px; /* Adjust this value to fit nicely */
+    bottom: 90px; /* Adjust this value to fit nicely */
 }
