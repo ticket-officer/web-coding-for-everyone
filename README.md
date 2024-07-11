@@ -65,4 +65,4 @@ We welcome contributions! Please fork the repository and submit a pull request w
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
