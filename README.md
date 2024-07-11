@@ -30,7 +30,7 @@ Dear students,
 
 Welcome to the world of web programming! We hope these projects inspire you to create and explore. Each project is designed to teach you the basics of HTML, CSS, and JavaScript in a fun and engaging way. Remember, coding is a journey, and every step you take brings you closer to becoming a proficient programmer. Enjoy the process, and don't hesitate to ask for help if you need it.
 
-# Submitting your own games
+### Submitting your own games
 
 We encourage you to create your own games and submit them to this repository. Follow these steps to submit your project:
 
