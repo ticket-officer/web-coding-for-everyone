@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    gap: 10px;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 5px;
+    position: relative;
+}
+
+.card img {
+    display: none;
+    width: 80px;
+    height: 80px;
+}
+
+.card.flipped img {
+    display: block;
+}
+
+.card.flipped {
+    background-color: white;
+}
