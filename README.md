@@ -1,6 +1,6 @@
-# Web Programming for Everyone
+# Web Coding for Everyone
 
-Welcome to "Web Programming for Everyone"! This repository contains fun and educational projects tailored for kids aged 9-13 to learn JavaScript, HTML, and CSS. Each project is organized into its own directory.
+Welcome to "Web Coding for Everyone"! This repository contains fun and educational projects tailored for kids aged 9-13 to learn JavaScript, HTML, and CSS. Each project is organized into its own directory.
 
 ## Projects
 
